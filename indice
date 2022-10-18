@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html lang="pt-BR" dir="ltr">
+<head>
+<meta name="robots" content="index, follow">
+<link rel="shortcut icon" href="data:" />
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cuerpodeseado.online/celulite">
+<meta property="og:title" content="Projeto Loja Online">
+<meta property="og:description" content="Essa Erva Irlandeza transformou minha auto estima">
+<meta property="og:image" content="https://img.imageboss.me/atm/cdn/u/YLuQapjEVTYjUAmTi0Jvqy0VxEF3/l/mbCkPE0674746.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title>Projeto Loja Online</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700;800&family=Lato:wght@400;500;600;700;800&family=Ubuntu:wght@400;500;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');">
+<style>.items-center{align-items:center}.grid-cols-6{grid-template-columns: repeat(6, minmax(0, 1fr))}.grid-cols-5{	grid-template-columns: repeat(5, minmax(0, 1fr))}.grid-cols-4{grid-template-columns: repeat(4, minmax(0, 1fr))}.grid-cols-2{grid-template-columns: repeat(2, minmax(0, 1fr))}.grid-cols-3{grid-template-columns: repeat(3, minmax(0, 1fr))}.grid-cols-1{grid-template-columns: repeat(1, minmax(0, 1fr))}.grid{display:grid}.basis-1\/2{flex-basis:50%}.flex{display:flex}.gap-1{gap:4px}.gap-2{gap:8px}.gap-4{gap:16px}.gap-6{gap:24px}.gap-12{48px}.gap-24{gap:96px}.justify-center{justify-content:center}.basis-full{flex-basis:100%}html{scroll-behavior:smooth;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}body,center,dd,del,div,dt,em,footer,h1,h2,h3,h4,h5,h6,i,iframe,img,p,q,s,small,span,strike,strong,sub,sup,table,tbody,td,tr,u{margin:-1px 0 0 0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;font-family:Lato,sans-serif}.u{-moz-user-select:none;-webkit-user-select:none;cursor:default}table{border-collapse:collapse;border-spacing:0}body{line-height:1}body{background-color:#5e1c5c;overflow-x:hidden}iframe,img,svg{max-width:100%}h1,h1 b,h1 span,h2,h2 b,h2 span,h3,h3 b,h3 span{font-family:Roboto,sans-serif}a{text-decoration:none;font-family:Lato,sans-serif}a.btn{font-family:Ubuntu,sans-serif}em span.lg,em span.md,em span.sm{font-style:italic}@media (max-width:600px){.flex-large,.flex-small{margin-right:0!important;margin-bottom:16px}}.flexrow{display:flex;flex-direction:row;flex-wrap:wrap;align-items:center}.flex-large,.flex-small{flex-basis:100%}.flex-large:last-child,.flex-small:last-child{margin-right:0!important}@media (min-width:600px){.flex-small{flex:1;margin-bottom:0!important;padding-bottom:0!important}.flex-small.half{flex:0 0 calc(1 / 2 * 100%)}.flex-small.one-fifth{flex:0 0 calc(1 / 5 * 100%)}.flex-small.two-fifths{flex:0 0 calc(2 / 5 * 100%)}.flex-small.one-fourth{flex:0 0 calc(1 / 4 * 100%)}.flex-small.two-fourths{flex:0 0 calc(2 / 4 * 100%)}.flex-small.three-fourths{flex:0 0 calc(3 / 4 * 100%)}.flex-small.one-third{flex:0 0 calc(1 / 3 * 100%)}.flex-small.two-thirds{flex:0 0 calc(2 / 3 * 100%)}}@media (min-width:1000px){.flex-large{flex:1;margin-bottom:0}.flex-large.half{flex:0 0 calc(1 / 2 * 100%)}.flex-large.one-fifth{flex:0 0 calc(1 / 5 * 100%)}.flex-large.two-fifths{flex:0 0 calc(2 / 5 * 100%)}.flex-large.one-fourth,.flex-large.two-fourths{flex:0 0 calc(1 / 4 * 100%)}.flex-large.three-fourths{flex:0 0 calc(3 / 4 * 100%)}.flex-large.one-third{flex:0 0 calc(1 / 3 * 100%)}.flex-large.two-thirds{flex:0 0 calc(2 / 3 * 100%)}}@media (min-width:640px){.sm\:gap-1{gap:6px}.sm\:gap-2{gap:12px!important}.sm\:gap-4{gap:24px}.sm\:gap-6{gap:32px}.sm\:gap-12{gap:64px}.sm\:gap-24{gap:128px}.sm\:grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr))}.sm\:grid-cols-5{grid-template-columns:repeat(5,minmax(0,1fr))}.sm\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.sm\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.sm\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.sm\:grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}}</style>
+</head>
+<body>
+<style>
+.zbymfb6953126 {display: none}
+@media (max-width: 640px) {
+html {overflow-x:hidden}
+}
+</style>
+<style>.pulsing { animation-name: pulsing; animation-duration: 1s; animation-timing-function: ease-out; animation-iteration-count: infinite; } @keyframes pulsing { 0% { box-shadow: 0 0 0 0 #ffb000e1 } 80% { box-shadow: 0 0 0 12px #00ff1700 } }</style>
+<style>.px-1{padding-left:4px;padding-right:4px}.pt-0.5{padding-top:2px}.mt-4{margin-top:16px}@media (min-width:640px){.sm\:text-sm{font-size:14px;line-height:20px}}.mt-2{margin-top:8px}.mb-2{margin-bottom:8px}.flex{display:flex}.w-full{width:100%}.space-x-1>:not([hidden])~:not([hidden]){margin-left:.25rem}.items-center{align-items:center}.font-\[Helvetica\]{font-family:Helvetica,Arial,sans-serif}.cursor-pointer{cursor:pointer}.rounded-full{border-radius:99999px}.h-12{height:48px}.w-12{width:48px}.flex-col{flex-direction:column}.py-1{padding-top:4px;padding-bottom:4px}.px-3{padding-left:12px;padding-right:12px}.pl-0\.5,.px-0\.5{padding-left:2px}.rounded-\[18px\]{border-radius:18px}.bg-stone-100{background-color:#f5f5f4}.px-0\.5{padding-right:2px}.font-semibold{font-weight:600}.text-\[\#365899\]{color:#365899}.text-\[13px\]{font-size:13px}.leading-4{line-height:16px}.hover\:underline:hover{text-decoration-line:underline}.text-sm{font-size:14px}.relative{position:relative}.justify-between{justify-content:space-between}.grow{flex-grow:1}.text-xs{font-size:12px}.text-\[\#90949c\]{color:#90949c}.ml-px{margin-left:1px}.gap-1{gap:4px}.w-fit{width:fit-content}.hidden{display:none}.-mt-1{margin-top:-4px}.-mt-2{margin-top:-8px}.mr-2{margin-right:8px}.h-4,.h-5{height:16px}.drop-shadow{--tw-drop-shadow:drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1)) drop-shadow(0 1px 1px rgba(0, 0, 0, 0.06));filter:var(--tw-drop-shadow)}.bg-slate-50{background-color:#f8fafc}.py-0\.5{padding-top:2px;padding-bottom:2px}.pr-1{padding-right:4px}.block{display:block}.w-4{width:16px}.-ml-1{margin-left:-4px}.ml-4{margin-left:16px}.gap-x-0\.5{column-gap:2px}.mr-0\.5{margin-right:2px;margin-left:2px}.border-l{border-left-width:1px}.border-slate-300{border-color:#cbd5e1}.border-dotted{border-style:dotted}.ml-5{margin-left:20px}.h-8{height:32px}.w-8{width:32px}.h-10{height:40px}.w-10{width:40px}@media (min-width:640px){.sm\:w-16{width:64px}.sm\:ml-12{margin-left:48px}}.pl-2{padding-left:8px}</style>
+<div class="division-wLbBCf9054206__wrapper">
+<style>
+#division-wLbBCf9054206 {
+position: relative;
+padding: -10vh 20vw -10vh 20vw;
+background-color: #FFAFCC;
+}
+@media (max-width:1200px) {
+#division-wLbBCf9054206 {
+padding: -5vh 10vw -5vh 10vw;
+}
+}
+@media (max-width:600px) {
+#division-wLbBCf9054206 {
+padding: -7.5vh 1.5vw -7.5vh 1.5vw;
+}
+}
+</style>
+<div id="division-wLbBCf9054206" class="MoLNXC6927138">
+<div class="description-JJeBgR9650757">
+<style>
+.description-JJeBgR9650757-element h3 {
+font-size: 1.32vw;
+text-align: center;
+padding-top: 2vh;
+padding-bottom: 2vh;
+color: #ffffff;
+line-height: 1.1;
+font-weight: 400;
+}
+@media (max-width: 1200px) {
+.description-JJeBgR9650757-element h3 {
+font-size: 2.20vw;
+padding-top: 1.5vh;
+padding-bottom: 1.5vh;
+}
+}
+@media (max-width: 640px) {
+.description-JJeBgR9650757-element h3 {
+font-size: 4.00vw;
+text-align: center;
+}
+}
+</style>
+<div class="description-JJeBgR9650757-element ">
+<h3>
+Dia&nbsp;<span class="sm">11.10.2022</span>&nbsp;é o ultimo dia para ver o conteúdo dessa página!
+</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="division-1658581343653__wrapper">
+<style>
+#division-1658581343653 {
+position: relative;
+padding: 3vh 20vw 3vh 20vw;
+background-color: #7056AC;
+background: url('https://img.imageboss.me/atm/cdn/u/YLuQapjEVTYjUAmTi0Jvqy0VxEF3/l/qfLYMl9717531.jpeg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+@media (max-width:1200px) {
+#division-1658581343653 {
+padding: 1.5vh 10vw 1.5vh 10vw;
+}
+}
+@media (max-width:600px) {
+#division-1658581343653 {
+padding: 1.5vh 1.5vw 1.5vh 1.5vw;
+}
+}
+</style>
+<div id="division-1658581343653" class="EbDFPc6927139">
+<div class="headline-1658581343654lMpslJ">
+<style>
+.headline-1658581343654lMpslJ-element h1 {
+font-size: 1.98vw;
+text-align: center;
+padding-top: 2vh;
+padding-bottom: 2vh;
+color: #e7e7e7;
+line-height: 1.1;
+font-weight: 600;
+}
+@media (max-width: 1200px) {
+.headline-1658581343654lMpslJ-element h1 {
+font-size: 3.30vw;
+padding-top: 1.5vh;
+padding-bottom: 1.5vh;
+}
+}
+@media (max-width: 640px) {
+.headline-1658581343654lMpslJ-element h1 {
+font-size: 4.50vw;
+text-align: center;
+}
+}
+</style>
+<div class="headline-1658581343654lMpslJ-element headline">
+<h1>
+Conheça&nbsp;<span style="background-color:#FFAFCC">Erva Irlandesa</span>&nbsp;Pode Suavizar As Celulites Em Apenas&nbsp;<span style="background-color:#FFAFCC">21 Dias</span>
+</h1>
+</div>
+</div>
+<style>
+.video-1658581462028Iuugbk {
+border: none;
+box-shadow: none;
+border-radius: ;
+}
+video.smartplayer-video {
+border-radius: 0px !important;
+}
+</style>
+<div class="video-1658581462028Iuugbk">
+<div id="vid_63459fc59d08b6000a1d4838" style="position:relative;width:100%;padding: 56.25% 0 0;"><img id="thumb_63459fc59d08b6000a1d4838" src="https://images.converteai.net/da2d5b41-5826-4784-bc26-5e4aa238a899/players/63459fc59d08b6000a1d4838/thumbnail.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;"><div id="backdrop_63459fc59d08b6000a1d4838" style="position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);"></div></div><script type="text/javascript" id="scr_63459fc59d08b6000a1d4838">var s=document.createElement("script");s.src="https://scripts.converteai.net/da2d5b41-5826-4784-bc26-5e4aa238a899/players/63459fc59d08b6000a1d4838/player.js",s.async=!0,document.head.appendChild(s);</script>
+</div>
+<div class="subheadline-1658581349369jhAKHf">
+<style>
+.subheadline-1658581349369jhAKHf-element h2 {
+font-size: 1.65vw;
+text-align: center;
+padding-top: 2vh;
+padding-bottom: 3vh;
+color: #370B42;
+line-height: 1.1;
+font-weight: 400;
+}
+@media (max-width: 1200px) {
+.subheadline-1658581349369jhAKHf-element h2 {
+font-size: 2.75vw;
+padding-top: 1.5vh;
+padding-bottom: 2.25vh;
+}
+}
+@media (max-width: 640px) {
+.subheadline-1658581349369jhAKHf-element h2 {
+font-size: 4.38vw;
+text-align: center;
+}
+}
+</style>
+<div class="subheadline-1658581349369jhAKHf-element subheadline">
+<h2>
+<span class="xl">2147</span>&nbsp;pessoas estão assistindo esse vídeo agora
+</h2>
+</div>
+</div>
+<div class="button-BWdsur8771621 zbymfb6953126">
+<style>
+a.button-BWdsur8771621-element {
+background-color: #ffb000;
+border-radius: 4px;
+border: none;
+color: #000000;
+padding: 16px 32px 16px 32px;
+font-weight: 600;
+display: block;
+width: fit-content;
+text-align: center;
+margin: 3vh auto 2vh auto;
+font-size: 1.49vw;
+box-sizing: border-box;
+max-width: 100%;
+}
+@media (max-width: 1200px) {
+a.button-BWdsur8771621-element {
+font-size: 3.38vw;
+margin: 1.98vh auto 1.5vh auto
+}
+}
+@media (max-width: 600px) {
+a.button-BWdsur8771621-element {
+font-size: 4.50vw;
+}
+}
+</style>
+<a href="https://pay.kiwify.com.br/v1o5Vh3" target="_blank" class="btn button-BWdsur8771621-element pulsing">
+EU QUERO APROVEITAR AGORA
+</a>
+</div>
+<style>.px-1{padding-left:4px;padding-right:4px}.pt-0.5{padding-top:2px}.mt-4{margin-top:16px}@media (min-width:640px){.sm\:text-sm{font-size:14px;line-height:20px}}.mt-2{margin-top:8px}.mb-2{margin-bottom:8px}.flex{display:flex}.w-full{width:100%}.space-x-1>:not([hidden])~:not([hidden]){margin-left:.25rem}.items-center{align-items:center}.font-\[Helvetica\]{font-family:Helvetica,Arial,sans-serif}.cursor-pointer{cursor:pointer}.rounded-full{border-radius:99999px}.h-12{height:48px}.w-12{width:48px}.flex-col{flex-direction:column}.py-1{padding-top:4px;padding-bottom:4px}.px-3{padding-left:12px;padding-right:12px}.pl-0\.5,.px-0\.5{padding-left:2px}.rounded-\[18px\]{border-radius:18px}.bg-stone-100{background-color:#f5f5f4}.px-0\.5{padding-right:2px}.font-semibold{font-weight:600}.text-\[\#365899\]{color:#365899}.text-\[13px\]{font-size:13px}.leading-4{line-height:16px}.hover\:underline:hover{text-decoration-line:underline}.text-sm{font-size:14px}.relative{position:relative}.justify-between{justify-content:space-between}.grow{flex-grow:1}.text-xs{font-size:12px}.text-\[\#90949c\]{color:#90949c}.ml-px{margin-left:1px}.gap-1{gap:4px}.w-fit{width:fit-content}.hidden{display:none}.-mt-1{margin-top:-4px}.-mt-2{margin-top:-8px}.mr-2{margin-right:8px}.h-4,.h-5{height:16px}.drop-shadow{--tw-drop-shadow:drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1)) drop-shadow(0 1px 1px rgba(0, 0, 0, 0.06));filter:var(--tw-drop-shadow)}.bg-slate-50{background-color:#f8fafc}.py-0\.5{padding-top:2px;padding-bottom:2px}.pr-1{padding-right:4px}.block{display:block}.w-4{width:16px}.z-10{z-index:10}.-ml-1{margin-left:-4px}.ml-4{margin-left:16px}.gap-x-0\.5{column-gap:2px}.mr-0\.5{margin-right:2px;margin-left:2px}.border-l{border-left-width:1px}.border-slate-300{border-color:#cbd5e1}.border-dotted{border-style:dotted}.ml-5{margin-left:20px}.h-8{height:32px}.w-8{width:32px}.h-10{height:40px}.w-10{width:40px}@media (min-width:640px){.sm\:w-16{width:64px}.sm\:ml-12{margin-left:48px}}.pl-2{padding-left:8px}</style>
+<div class="fbComments-bABANK5378398" style="margin-left:auto;margin-right:auto">
+<style>
+.fbComments-bABANK5378398-element {
+padding: 16px;
+border-radius:20px;
+background-color:#fff;
+}
+.fbComments-bABANK5378398-element p, .fbComments-bABANK5378398-element span {
+font-family: 'Helvetica', 'Arial', sans-serif;
+}
+</style>
+<div id="testimonials" class="fbComments-bABANK5378398-element">
+<p class="text-xs sm:text-sm leading-4 font-semibold mb-2">
+Mostrando 10 comentários
+</p>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/u/YLuQapjEVTYjUAmTi0Jvqy0VxEF3/l/bqJJqi9514522.jpeg" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Fernanda Enz
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Felicidade me defineeeelll Gentee, eu achava que não daria certo para mim. Mas em apenas um mês aplicando lá obtive resultados no meu bumbum, amanduuu!!!!!!
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+59
+</span>
+</div>
+</div>
+</div>
+<div class="border-l border-slate-300 border-dotted ml-5 sm:ml-12 pl-2 mb-2">
+<div class="flex w-full space-x-1 items-center">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/3.webp" class="cursor-pointer rounded-full h-8 w-8">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-xs cursor-pointer hover:underline">
+Josiane Freitas
+</p>
+<p class="text-sm leading-4 pt-0.5">
+bom dia, quanto tempo vc teve resultado.
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-10 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs">
+<p class="font-semibold hover:underline cursor-pointer text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold hover:underline cursor-pointer text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+39
+</span>
+</div>
+</div>
+</div>
+<div class="border-l border-slate-300 border-dotted ml-5 sm:ml-12 pl-2 mb-2">
+<div class="flex w-full space-x-1 items-center">
+<img src="https://img.imageboss.me/atm/cdn/u/YLuQapjEVTYjUAmTi0Jvqy0VxEF3/l/bqJJqi9514522.jpeg" class="cursor-pointer rounded-full h-8 w-8">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-xs cursor-pointer hover:underline">
+Fernanda Enz
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Josiane ja na primeirsa semana 😍😍😍😍
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-10 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs">
+<p class="font-semibold hover:underline cursor-pointer text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold hover:underline cursor-pointer text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+41
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/7.webp" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Graciane Batista
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Gratidao 🙏🙏🙏🙏 Realmente da resultado, vai fazer dois meses que sigo o programa sem pararl Consegui durante esse tempo me livrar da celulite e o melhor de tudo é que não preciso ficar fazendo aquelas dietas loucas da internet
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+80
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/10.webp" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Jackeline Santana
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Meninas, a dica do final do video compensa demais!!! Estou amandando!!
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+110
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/13.webp" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Joice Santos
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Meninas eu tenho 44 anos e tô de cara com esses segredos, já faz duas semanas que estou sequindo esse programa e estou amando os resultados. A celulite desaparece mesmo e olha que eu já tento me livrar dela a anos e nunca senti tantos resultados como agoral Super recomendo
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+41
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/24.webp" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Amanda Torres
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Você me economizou um baita tempo e dinheiro com esses segredos que me revelou menina, só tenho a te agradecer.
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+61
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/15.webp" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Cleusa Souza
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Tô de cara com esse guial N sabia que realmente ia funcionar, tô naqueles 13 dias que vc falou e adivinha. Já estou com as pernas lisinhas
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+62
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/u/YLuQapjEVTYjUAmTi0Jvqy0VxEF3/l/lHeCyD9584037.jpeg" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Jasmine Silveira
+</p>
+<p class="text-sm leading-4 pt-0.5">
+Nossa faz uma semana q to fazendo a rotina e ja consigo ver resultados !! Melhor que mta massagem e creme ®
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+71
+</span>
+</div>
+</div>
+</div>
+<div class="mb-2">
+<div class="flex w-full space-x-1 items-center font-[Helvetica]">
+<img src="https://img.imageboss.me/atm/cdn/p/pics/25.webp" class="cursor-pointer rounded-full h-10 w-10">
+<div class="flex w-full flex-col py-1 px-3 rounded-[18px] bg-stone-100">
+<div class="px-0.5 py-1">
+<p class="font-semibold text-[#365899] text-[13px] leading-4 cursor-pointer hover:underline">
+Luisa Aguiar
+</p>
+<p class="text-sm leading-4 pt-0.5">
+To na flor da idade e estava sofrendo mto com a celulites.. Tenho 34 anos, e conheci o gula da rotina e venho aqui dizer pra vcs que funcionou mto!!!
+</p>
+</div>
+</div>
+</div>
+<div class="flex w-full justify-between">
+<div class="w-12 sm:w-16"></div>
+<div class="grow flex gap-1 text-xs pt-0.5">
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Curtir
+</p>
+<p class="text-[#90949c]">·</p>
+<p class="font-semibold cursor-pointer hover:underline text-[#90949c]">
+Responder
+</p>
+<p class="text-[#90949c]">·</p>
+<div class="text-[#90949c] flex gap-x-0.5 cursor-pointer hover:underline">
+<p class="text-xs text-[#90949c]">
+1
+</p>
+<p class="text-[#90949c] ">min</p>
+</div>
+</div>
+<div class="-mt-2 mr-2 h-5 flex items-center relative drop-shadow rounded-full bg-slate-50 py-0.5 px-1 w-fit">
+<img class="w-4 block" src="https://img.imageboss.me/atm/cdn/p/l.png">
+<img class="w-4 -ml-1 mr-0.5" src="https://img.imageboss.me/atm/cdn/p/h.png">
+<span class="text-xs text-[#90949c] pt-0.5">
+64
+</span>
+</div>
+</div>
+</div>
+<p class="text-xs sm:text-sm leading-4 font-semibold mt-4" style="color:#555;text-align:center;">
+Você precisa estar logado para comentar.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="division-uxSvaB8048180__wrapper">
+<style>
+#division-uxSvaB8048180 {
+position: relative;
+padding: 3vh 20vw 3vh 20vw;
+background-color: #ffffff;
+}
+@media (max-width:1200px) {
+#division-uxSvaB8048180 {
+padding: 1.5vh 10vw 1.5vh 10vw;
+}
+}
+@media (max-width:600px) {
+#division-uxSvaB8048180 {
+padding: 1.5vh 1.5vw 1.5vh 1.5vw;
+}
+}
+</style>
+<div id="division-uxSvaB8048180" class="uAqnHA6927145 zbymfb6953126">
+<div class="notification-aBIeDa8771621">
+<style>
+.notification-aBIeDa8771621-element {
+background-color: #a655a6;
+color: #ffffff;
+border-radius: 8px;
+display: flex;
+visibility: hidden;
+align-items: center;
+justify-content: center;
+width: fit-content;
+text-align: center;
+padding: 12px;
+position: fixed;
+z-index: 1;
+right: 5%;
+bottom: 30px;
+font-family: sans-serif !important;
+font-size: 14px;
+font-weight: bold;
+}
+.notification-aBIeDa8771621-element span {
+font-family: sans-serif !important;
+}
+@media (min-width:600px){#snackbar{margin-left:-10vw}}#snackbar img{vertical-align:middle}.show{visibility:visible!important;-webkit-animation:fadein .5s,fadeout .5s 3.5s;animation:fadein 1s,fadeout 1s 3.5s}@-webkit-keyframes fadein{from{bottom:0;opacity:0}to{bottom:30px;opacity:1}}@keyframes fadein{from{bottom:0;opacity:0}to{bottom:30px;opacity:1}}@-webkit-keyframes fadeout{from{bottom:30px;opacity:1}to{bottom:0;opacity:0}}@keyframes fadeout{from{bottom:30px;opacity:1}to{bottom:0;opacity:0}}
+</style>
+<div id="snackbar" class="notification-aBIeDa8771621-element">
+<svg style="margin-right:3px;" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-patch-check-fill" viewBox="0 0 16 16"> <path d="M10.067.87a2.89 2.89 0 0 0-4.134 0l-.622.638-.89-.011a2.89 2.89 0 0 0-2.924 2.924l.01.89-.636.622a2.89 2.89 0 0 0 0 4.134l.637.622-.011.89a2.89 2.89 0 0 0 2.924 2.924l.89-.01.622.636a2.89 2.89 0 0 0 4.134 0l.622-.637.89.011a2.89 2.89 0 0 0 2.924-2.924l-.01-.89.636-.622a2.89 2.89 0 0 0 0-4.134l-.637-.622.011-.89a2.89 2.89 0 0 0-2.924-2.924l-.89.01-.622-.636zm.287 5.984-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708.708z"></path> </svg>&nbsp; <span id="not-name">Fulaninho</span>&nbsp;<span id="not-msg">comprou agora</span>.
+</div>
+</div>
+</div>
+</div>
+<div class="division-1658582251300__wrapper">
+<style>
+#division-1658582251300 {
+position: relative;
+padding: 5vh 20vw 5vh 20vw;
+background-color: #ffffff;
+}
+@media (max-width:1200px) {
+#division-1658582251300 {
+padding: 2.5vh 10vw 2.5vh 10vw;
+}
+}
+@media (max-width:600px) {
+#division-1658582251300 {
+padding: 3vh 1.5vw 3vh 1.5vw;
+}
+}
+</style>
+<div id="division-1658582251300" class="YbRkmG6927147">
+<div class="footer-1658582257377dY0j5w">
+<style>
+.footer-1658582257377dY0j5w-element {
+text-align: center;
+font-size: 1.20vw;
+color: #000000;
+}
+.footer-1658582257377dY0j5w-element a {
+padding: 0 !important;
+color: #000000 !important;
+}
+@media (max-width:1200px) {
+.footer-1658582257377dY0j5w-element {
+text-align: center;
+font-size: 1.95vw;
+color: #000000;
+}
+}
+@media (max-width:640px) {
+.footer-1658582257377dY0j5w-element {
+text-align: center;
+font-size: 3.30vw;
+color: #000000;
+}
+}
+</style>
+<footer class="footer-1658582257377dY0j5w-element">
+<p><strong>Copyright 2022 – Guia Eliminando a Celulite ®</strong></p>
+<p style="margin-top:4px;">Todos os Direitos Reservados</p>
+<div style="display:flex;align-items:center;justify-content:center;margin-top:24px;">
+<a id="t" style="margin-right:12px" href="#">
+Termos de Uso
+</a> <span style="margin-right:12px">·</span>
+<a id="p" href="#">
+Privacidade
+</a>
+</div>
+<p style="margin-top:24px;">
+Este site não tem afiliação a qualquer plataforma de anúncios. Todos os conteúdos são de nossa inteira responsabilidade.
+</p>
+<script>
+          const pr = window.location.href + "/privacidade",
+            te = window.location.href + "/termos";
+            document.getElementById("p").setAttribute("href", pr), document.getElementById("t").setAttribute("href", te);
+</script>
+</footer></div>
+</div>
+</div>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1469008766918197');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=641568153949759&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+<script src="js/zbymfb6953126.js" charset="utf-8"></script>
+</body>
+</html>
